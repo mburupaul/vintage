@@ -1,0 +1,44 @@
+h2{
+    color: #800111;
+    background-color: #ddfaff;
+    text-align: center;
+}
+form{
+    color: #1c19ff;
+    background-color: #dbffc5;
+    text-align: center;
+    font-style: oblique;
+
+}
+h2,form{
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px
+;
+}
+body{
+
+
+
+.form{
+    background-color: #737b80;
+}
+ul{
+    background-color: #b6ff88;
+    color: darkblue;
+    overflow: hidden;
+
+}
+li{
+    padding: 15px;
+    margin: 10px;
+    float: left;
+    list-style-type: none;
+}
+li,ul{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    color: #787780;text-decoration: none;
+}

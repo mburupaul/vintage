@@ -1,0 +1,22 @@
+ul{
+    background-color: orange;
+    color: darkblue;
+    overflow: hidden;
+
+}
+li{
+    padding: 15px;
+    margin: 10px;
+    float: left;
+    list-style-type: none;
+}
+li,ul{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    color: #787780;text-decoration: none;
+}
+h1 {
+    background-color: #d3fffc;
+    text-align: center;
+}
